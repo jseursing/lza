@@ -1,0 +1,5 @@
+﻿  LZ77.cpp
+  main.cpp
+X:\git\lza\source\main.cpp(11,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  lza.vcxproj -> X:\git\lza\Debug\lza.exe
